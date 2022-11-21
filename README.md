@@ -49,7 +49,7 @@ To promote research in the field of remaining useful life prediction, we will op
 
 Once again, we very sincerely hope that the proposed hybrid prediction method will be recognized and noticed by the reviewers and the engineering community. Thank you very much.
 
-## Author Information
+## First Author Information
 Yuhang Duan. He is currently working toward the Ph.D. degree in software engineering with Beijing jiaotong University, Beijing. His main research is on the adaptive construction of health indicator sequences using unsupervised learning models combined with machine learning or mathematical methods for RUL prediction.
 
 More research work can be found in the following link:
