@@ -45,7 +45,7 @@ The number of RMSE, Score, ACC and MAPE are compared and listed in the Tables.
 
 ## About Implementation code. 
 
-To promote research in the field of remaining useful life prediction, we will open source the code after the manuscript review. The open source code consists of three main parts: 1. Data preprocessing; 2. Model code implementation (autoencoder and stochastic process) 3. Evaluation metrics and results plotting.
+To promote research in the field of remaining useful life prediction, we will open source the code after the manuscript review. The open source code consists of three main parts: 1. Data preprocessing; 2. Model code implementation (autoencoder and stochastic process) ;3. Evaluation metrics and results plotting.
 
 Once again, we very sincerely hope that the proposed hybrid prediction method will be recognized and noticed by the reviewers and the engineering community. Thank you very much.
 
