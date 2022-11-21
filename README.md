@@ -14,14 +14,33 @@ To illustrate the effectiveness and accuracy of the proposed hybrid scheme, we c
 We performed experimental validation and comparison on two datasets.
 
 ## For space-time overhead comparison. 
-<p align="center">
-<img src=".\img\Railway_dataset_space-time_compare.jpg" height = "360" alt="" align=center />
-<br><br>
-<b>Figure 1.</b> The architecture of Informer.
-</p>
 
 The number of model parameters, model storage space and the average time for one network training epoch are compared and listed in the Tables.
+
+<p align="center">
+<img src=".\imgs\Railway_dataset_space-time_compare.jpg" height = "300" alt="" align=center />
+<br><br>
+<b>Table 1.</b> Comparison of model space-time overhead for Railway wear prediciton models.
+</p>
+
+<p align="center">
+<img src=".\imgs\Milling_dataset_space-time_compare.jpg" height = "180" alt="" align=center />
+<br><br>
+<b>Table 2.</b> Comparison of model space-time overhead for Milling tool wear prediciton models.
+</p>
 
 ## For RUL prediction evaluation metircs comparison. 
 
 The number of RMSE, Score, ACC and MAPE are compared and listed in the Tables.
+
+<p align="center">
+<img src=".\imgs\Railway_dataset_RUL_prediction_compare.jpg" height = "300" alt="" align=center />
+<br><br>
+<b>Table 3.</b> Comparison of model RUL predition for Railway wear prediciton models.
+</p>
+
+<p align="center">
+<img src=".\imgs\Milling_dataset_RUL_prediction_compare.jpg" height = "420" alt="" align=center />
+<br><br>
+<b>Table 4.</b> Comparison of model RUL predition for Milling tool wear prediciton models.
+</p>
