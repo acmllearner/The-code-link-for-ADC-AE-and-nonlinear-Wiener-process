@@ -1,1 +1,9 @@
-aaa
+We performed experimental validation and comparison on two datasets.
+
+## For space-time overhead comparison. 
+
+The number of model parameters, model storage space and the average time for one network training epoch are compared and listed in the Tables.
+
+## For RUL prediction evaluation metircs comparison. 
+
+The number of RMSE, Score, ACC and MAPE are compared and listed in the Tables.
