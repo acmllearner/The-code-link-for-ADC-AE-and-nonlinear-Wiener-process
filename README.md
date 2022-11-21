@@ -10,3 +10,18 @@ In addition, to improve the reliability of the neural network prediction results
 
 ## Research Results
 To illustrate the effectiveness and accuracy of the proposed hybrid scheme, we conducted experiments on a private dataset (Railway wheel wear data) and a public dataset (NASA milling tool data).
+
+We performed experimental validation and comparison on two datasets.
+
+## For space-time overhead comparison. 
+<p align="center">
+<img src=".\img\Railway_dataset_space-time_compare.jpg" height = "360" alt="" align=center />
+<br><br>
+<b>Figure 1.</b> The architecture of Informer.
+</p>
+
+The number of model parameters, model storage space and the average time for one network training epoch are compared and listed in the Tables.
+
+## For RUL prediction evaluation metircs comparison. 
+
+The number of RMSE, Score, ACC and MAPE are compared and listed in the Tables.
