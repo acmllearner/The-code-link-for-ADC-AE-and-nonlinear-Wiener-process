@@ -1,5 +1,5 @@
 # ADC-AE: A Novel Asymmetric and Dual-channel Augmented Autoencoder for Hybrid-driven Remaining Useful Life Prediction
-This is an open source repository of code for our IEEE Transactions on Instrumentation and Measurement (TIM) submission.
+This is an open source repository of code for our Applied Intelligence submission.
 
 Greetings, dear colleagues, we are conducting a research on 'A Novel Asymmetric and Dual-channel Augmented Autoencoder for Hybrid-driven Remaining Useful Life Prediction'. This is my last research work during my doctoral studies. For me and my supervisor (Prof. Honghui Li), this research work is important. First of all, it is the result of my research work in which I spent two years at the Shuohuang railway site for data collection, problem formulation, solution development and algorithm implementation. In addition, the proposed model will be deployed and applied in a real railroad scenario. This is of very great practical and theoretical value for data-driven train wheel condition monitoring and health management. We sincerely hope that our manuscript will be noticed and recognized by the reviewers and the engineering community.
 
